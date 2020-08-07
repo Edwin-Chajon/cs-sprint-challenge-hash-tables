@@ -1,7 +1,5 @@
 def has_negatives(array):
-    """
-    YOUR CODE HERE
-    """
+
     result = []
     number_list = {}
     

@@ -1,7 +1,5 @@
 def intersection(arrays):
-    """
-    YOUR CODE HERE
-    """
+
     result = []
     number_table = {}
     #first array will be hash through

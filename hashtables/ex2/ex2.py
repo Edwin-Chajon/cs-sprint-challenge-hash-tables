@@ -6,9 +6,7 @@ class Ticket:
 
 
 def reconstruct_trip(tickets, length):
-    """
-    YOUR CODE HERE
-    """
+
 
     route = []
     trip_tickets = {}
